@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Plantmora
-- 👀 I’m interested in HTML, Daz Studio, and much more
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in front-end web development, Daz Studio, and much more
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me ???
 
